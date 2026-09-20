@@ -144,5 +144,58 @@
         "timestamp": "25:54"
       }
     ]
+  },
+  {
+    "origin": true,
+    "title": "Weitergabe auf YouTube #1",
+    "videoLink": "https://www.youtube.com/watch?v=gvNCgBHDewM",
+    "date": "2026-07-25",
+    "description": "Ezra gibt den Käsefluch weiter – das Ereignis auf YouTube mit mehreren Übergaben.",
+    "internalPasses": [
+      {
+        "from": "Ezra",
+        "to": "Rias030",
+        "timestamp": "18:01"
+      },
+      {
+        "from": "Rias030",
+        "to": "Coccodinho",
+        "timestamp": "18:55"
+      },
+      {
+        "from": "Coccodinho",
+        "to": "Niza",
+        "timestamp": "20:02"
+      },
+      {
+        "from": "Niza",
+        "to": "Rias030",
+        "timestamp": "20:05"
+      }
+    ]
+  },
+  {
+    "origin": true,
+    "title": "Interview-Fortsetzung",
+    "videoLink": "https://www.youtube.com/watch?v=UTrxK7i2-fk",
+    "date": "2026-07-25",
+    "description": "Im Interview geht der Käsefluch weiter zwischen Rias030, Milo und Coccodinho.",
+    "internalPasses": [
+      {
+        "from": "Rias030",
+        "to": "Milo",
+        "timestamp": "0:11"
+      },
+      {
+        "from": "Milo",
+        "to": "Coccodinho",
+        "timestamp": "10:54"
+      },
+      {
+        "from": "Coccodinho",
+        "to": "Rias030",
+        "timestamp": "10:55"
+      }
+    ]
   }
 ]
